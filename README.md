@@ -14,5 +14,5 @@ Data Whisperer and Analysis Enthusiast at your service. I find my groove with SQ
 📊 Crafting engaging Power BI dashboards.
 
 ### Let's Connect!
-📫 Reach me at akash@example.com or drop by ( https://www.linkedin.com/in/akash-katad-ak252825/ ) for a virtual chat about data, analysis, or the latest tech trends.
+📫 Reach me at akashkatad7@gmail.com or drop by ( https://www.linkedin.com/in/akash-katad-ak252825/ ) for a virtual chat about data, analysis, or the latest tech trends.
 
