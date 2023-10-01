@@ -1,5 +1,5 @@
 
-<img src="https://drive.google.com/uc?id=1Ld-qDwth-eTT62oV8DQANnqECNTplZyY" alt="Image" style="width:100%; max-width:800px;">
+<img src="https://drive.google.com/uc?id=1cxELhUCsrfB5jUzhMTtdAmyScS0OEfKo" alt="Image" style="width:100%; max-width:800px;">
 <h1 align="center">Hi 👋, I'm Akash Katad</h1>
 <h3 align="center">Aspiring Data Analyst || Excel || SQL || Power BI || Python</h3>
 
