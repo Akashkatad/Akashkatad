@@ -10,7 +10,7 @@
 
 - 🌱 Excited to Begin My Career in  **Data Science!**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/akash_katad]
+- 👨‍💻 To Know More About me [https://linktr.ee/akash_katad]
 
 - 📫 How to reach me **akashkatad7@gmail.com**
 
