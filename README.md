@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkatad&label=Profile%20views&color=0e75b6&style=flat" alt="akashkatad" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 Actively Seeking  **Data Science Opportunities**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/akash_katad]
 
